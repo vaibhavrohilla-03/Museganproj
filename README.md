@@ -1,6 +1,6 @@
 MuseGAN
 =========
-A Pytorch implementation of MuseGAN
+A Pytorch implementation of MuseGAN (fork of https://github.com/cliffordkleinsr/musegan-pytorch working project on windows)
 
 [Check out the generated piano music](https://akanametov.github.io/musegan/)
 
